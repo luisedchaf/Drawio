@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="wUdHszSaGWNdOMGdr09_">
+    <mxGraphModel dx="843" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S_Lyyh4wizGiDFSD51VB-1" target="S_Lyyh4wizGiDFSD51VB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-1" value="Bases de datos Clave" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-4" value="Scopus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="S_Lyyh4wizGiDFSD51VB-1">
+          <mxGeometry x="45" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-5" value="Web of Science" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="S_Lyyh4wizGiDFSD51VB-1">
+          <mxGeometry x="20" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-6" value="IEEE Xplore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="S_Lyyh4wizGiDFSD51VB-1">
+          <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-7" value="Google Scholar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="S_Lyyh4wizGiDFSD51VB-1">
+          <mxGeometry x="20" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-8" value="Uso de operadores" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-10" value="OR&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;AND&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="S_Lyyh4wizGiDFSD51VB-8">
+          <mxGeometry x="55" y="40" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S_Lyyh4wizGiDFSD51VB-12" value="Publish or Perish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
