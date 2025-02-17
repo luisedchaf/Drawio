@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Página-1" id="Gbi8eX8rKpZGHyq2F7fT">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-1" value="Cuestionario para los profesores en formación (172)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3" y="40" width="430" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-2" value="&lt;div&gt;Cuestionario para indagar el CDC. Adaptado del instrumento utilizado por Muñoz-Burbano (2020) y basado en el instrumento representación de los Contenidos (content representation, CoRe) que Proponen Loughran, Mulhall y Berry (2004)&amp;nbsp; (16 preguntas)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="30" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-3" value="&lt;div&gt;Proceso de&amp;nbsp; validación: cinco expertos y ensayo piloto (58 estudiantes). Fiabilidad: alfa de Cronbach (0,774)&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="130" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-4" value="&lt;div&gt;¿Qué papel cumplen las ideas previas en la enseñanza de las ciencias?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="190" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-5" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación al concepto de electrón?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="240" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-6" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación a las implicaciones tecnológicas y sociales de la teoría cuántica?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="290" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-7" value="&lt;div&gt;¿Conoce las posibles ideas alternativas que pueden tener los estudiantes en el aprendizaje de la estructura del átomo?&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-1">
+          <mxGeometry y="370" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-8" value="&lt;div&gt;Criterios de valoración del cuestionario&lt;/div&gt;&lt;div&gt;&amp;nbsp;(0, 1 y 2)&lt;/div&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="434" y="40" width="380" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-9" value="&lt;div&gt;Cuestionario para indagar el CDC. Adaptado del instrumento utilizado por Muñoz-Burbano (2020) y basado en el instrumento representación de los Contenidos (content representation, CoRe) que Proponen Loughran, Mulhall y Berry (2004)&amp;nbsp; (16 preguntas)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="30" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-10" value="&lt;div&gt;Proceso de&amp;nbsp; validación: cinco expertos y ensayo piloto (58 estudiantes). Fiabilidad: alfa de Cronbach (0,774)&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="130" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-11" value="&lt;div&gt;¿Qué papel cumplen las ideas previas en la enseñanza de las ciencias?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="190" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-12" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación al concepto de electrón?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="240" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-13" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación a las implicaciones tecnológicas y sociales de la teoría cuántica?&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="290" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JkmbRfnLhI3Z5fjLhA8T-14" value="&lt;div&gt;¿Conoce las posibles ideas alternativas que pueden tener los estudiantes en el aprendizaje de la estructura del átomo?&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="JkmbRfnLhI3Z5fjLhA8T-8">
+          <mxGeometry y="370" width="380" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
