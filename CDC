@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Página-1" id="Tj9gQgzc6FXxzVx2ak0N">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xGPX18vHQ3okVtyo0lDd-1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;¿Cómo es el CDC sobre la estructura atómica que se enseña en las licenciaturas de ciencias naturales a loa profesores en formación&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=4;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="480" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xGPX18vHQ3okVtyo0lDd-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;¿Qué CDC sobre la estructura atómica tienen los profesores en formación de dichas licenciaturas?&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f9f7ed;strokeColor=#36393d;strokeWidth=4;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="480" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xGPX18vHQ3okVtyo0lDd-5" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="60" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
