@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Página-1" id="qKCqAZBmxgnomuWYAr4e">
-    <mxGraphModel>
+    <mxGraphModel dx="2037" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TmuDQY07s0CltyXyed1G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="TmuDQY07s0CltyXyed1G-2" target="TmuDQY07s0CltyXyed1G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="TmuDQY07s0CltyXyed1G-2" target="TmuDQY07s0CltyXyed1G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-2" value="Cuestionario" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=29;fontStyle=1;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-3" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Validación por&amp;nbsp; juico de expertos en didácticas de las ciencias&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="5" y="171" width="685" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-4" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;¿Qué contenidos desarrolla en el tema de estructura del átomo con sus estudiantes?&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="720" y="171" width="720" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-7" value="&lt;span style=&quot;background-color: transparent; font-family: Verdana;&quot;&gt;&lt;b&gt;1. Clásico.&lt;/b&gt; Hace referencia únicamente a los modelos atómicos, sin distinguir entre la mecánica clásica y la Teoría Cuántica&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="10" y="517" width="1430" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-8" value="&lt;p style=&quot;line-height: 80%; margin-top: 10pt; margin-bottom: 8pt; margin-right: 0in; text-indent: 0in; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span&gt;&lt;font&gt;Criterios de valoración del cuestionario&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; margin-top: 10pt; margin-bottom: 8pt; margin-right: 0in; text-indent: 0in; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; margin-top: 10pt; margin-bottom: 8pt; margin-right: 0in; text-indent: 0in; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span&gt;&lt;font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; margin-top: 10pt; margin-bottom: 8pt; margin-right: 0in; text-indent: 0in; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ítem 1 ¿Qué contenidos desarrolla en el tema de estructura del átomo con&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; margin-top: 10pt; margin-bottom: 8pt; margin-right: 0in; text-indent: 0in; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;sus estudiantes?&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=29;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="1130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-9" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;2. Pre-cuántico. &lt;/b&gt;Además de los conceptos relacionados con los modelos atómicos clásicos, se pone especial énfasis en los aportes de la cuantización del modelo de Bohr&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="10" y="677" width="1430" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TmuDQY07s0CltyXyed1G-10" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;3. Cuántico.&lt;/b&gt; Cuando se mencionan conceptos relacionados con la teoría cuántica, como por ejemplo la crisis de la mecánica clásica, la naturaleza dual de la luz y la materia, las relaciones de indeterminación y la ecuación de Schrödinger&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="10" y="837" width="1430" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
