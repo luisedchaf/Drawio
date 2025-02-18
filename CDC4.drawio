@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-4" value="&lt;div&gt;Cuestionario para indagar el CDC. Adaptado del instrumento utilizado por Muñoz-Burbano (2020) y basado en el instrumento representación de los Contenidos (content representation, CoRe) que Proponen Loughran, Mulhall y Berry (2004)&amp;nbsp; (16 preguntas)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-4" value="&lt;div&gt;Cuestionario para indagar el CDC. Adaptado del instrumento utilizado por Muñoz-Burbano (2020) y basado en el instrumento representación de los Contenidos (content representation, CoRe) que Proponen Loughran, Mulhall y Berry (2004)&amp;nbsp; (16 preguntas)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-5" value="&lt;div&gt;Proceso de&amp;nbsp; validación: cinco expertos y ensayo piloto (58 estudiantes). Fiabilidad: alfa de Cronbach (0,774)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="520" height="240" as="geometry" />
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-5" value="&lt;div&gt;Proceso de&amp;nbsp; validación: cinco expertos y ensayo piloto (58 estudiantes). Fiabilidad: alfa de Cronbach (0,774)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="520" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-6" value="&lt;div&gt;¿Qué papel cumplen las ideas previas en la enseñanza de las ciencias?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="50" y="760" width="510" height="240" as="geometry" />
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-6" value="&lt;div&gt;¿Qué papel cumplen las ideas previas en la enseñanza de las ciencias?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="45" y="670" width="510" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-7" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación al concepto de electrón?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-7" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación al concepto de electrón?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="590" y="210" width="500" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-8" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación a las implicaciones tecnológicas y sociales de la teoría cuántica?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="600" y="470" width="490" height="240" as="geometry" />
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-8" value="&lt;div&gt;¿Qué pretende que un estudiante aprenda con relación a las implicaciones tecnológicas y sociales de la teoría cuántica?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="600" y="470" width="490" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-9" value="&lt;div&gt;¿Conoce las posibles ideas alternativas que pueden tener los estudiantes en el aprendizaje de la estructura del átomo?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="480" height="240" as="geometry" />
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-9" value="&lt;div&gt;¿Conoce las posibles ideas alternativas que pueden tener los estudiantes en el aprendizaje de la estructura del átomo?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Verdana;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="600" y="660" width="480" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Gtmt9p3vTEbte_BujXIY-10" value="&lt;span style=&quot;font-size: 19pt; font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;En relación con la segunda hipótesis se diseñó un cuestionario para los&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19pt; font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19pt; font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;&amp;nbsp;profesores en formación (172)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+        <mxCell id="Gtmt9p3vTEbte_BujXIY-10" value="&lt;span style=&quot;font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;En relación con la segunda hipótesis se diseñó un cuestionario para&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: bold; font-style: normal; vertical-align: baseline;&quot;&gt;los&lt;/span&gt;&lt;span style=&quot;color: light-dark(black, rgb(237, 237, 237)); font-weight: bold; letter-spacing: 0pt; background-color: transparent;&quot;&gt;&amp;nbsp;profesores en formación (172)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;align=center;fontSize=27;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="1050" height="110" as="geometry" />
         </mxCell>
       </root>
